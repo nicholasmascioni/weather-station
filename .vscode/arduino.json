@@ -1,5 +1,0 @@
-{
-    "configuration": "cpu=atmega328",
-    "board": "arduino:avr:nano",
-    "port": "/dev/tty.wlan-debug"
-}
